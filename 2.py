@@ -4,8 +4,8 @@ from random import randint as rd
 
 
 #TOKEN = "5983035956:AAGXMRbVaKLvUn432Dc-qyV1SlanbcYjT_g"
-bot = Bot(token='5934547319:AAHs2zQ1MiBL1SdrApl-xwKnek_6xd219DU')
-updater = Updater(token='5934547319:AAHs2zQ1MiBL1SdrApl-xwKnek_6xd219DU')
+bot = Bot(token='yor token')
+updater = Updater(token='yor token')
 dispatcher = updater.dispatcher
 
 
